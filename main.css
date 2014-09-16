@@ -1,0 +1,17 @@
+html {
+
+}
+
+body {
+
+}
+
+#canvas {
+	border: 1px solid #000;
+	/*flipping the playing area*/
+	/*-moz-transform: scale(1, -1);
+	-webkit-transform: scale(1, -1);
+	-o-transform: scale(1, -1);
+	transform: scale(1, -1);
+	filter: FlipH;*/
+}
